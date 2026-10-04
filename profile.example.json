@@ -1,0 +1,33 @@
+{
+  "_help": "Copy this file to profile.json and fill it in. profile.json is git-ignored; it holds the details the agent uses to apply for you.",
+  "full_name": "Your Name",
+  "email": "you@gmail.com",
+  "phone": "+91 XXXXXXXXXX",
+  "current_city": "Bengaluru",
+  "preferred_locations": [
+    "Bengaluru",
+    "Remote"
+  ],
+  "willing_to_relocate": "Yes",
+  "linkedin": "https://www.linkedin.com/in/your-profile/",
+  "github": "https://github.com/your-username",
+  "portfolio": "https://your-site.example",
+  "resume_pdf": "../Your_Resume.pdf",
+  "total_experience_years": "2",
+  "current_company": "Your Company",
+  "current_title": "Software Engineer",
+  "current_ctc_lpa": "TODO",
+  "expected_ctc_lpa": "TODO",
+  "notice_period": "TODO e.g. 60 days",
+  "work_authorization": "Indian citizen, authorized to work in India",
+  "needs_visa_sponsorship_abroad": "Yes/No",
+  "highest_degree": "Degree, College (years, CGPA)",
+  "bachelors": "Degree, College (years, CGPA)",
+  "studying_while_working": "",
+  "open_to": [
+    "Full-time"
+  ],
+  "preferred_work_mode": "Hybrid",
+  "gender_optional": "",
+  "references_optional": ""
+}

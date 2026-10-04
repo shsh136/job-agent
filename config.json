@@ -1,0 +1,74 @@
+{
+  "email_to": "shubhika136@gmail.com",
+  "min_score": 55,
+  "max_jobs_in_email": 25,
+  "max_days_old": 3,
+  "remind_days": 5,
+  "remind_min_score": 65,
+
+  "ai": {
+    "enabled": true,
+    "max_jobs_per_run": 10,
+    "effort": "medium",
+    "gemini_model": ""
+  },
+  "resume_yaml": "../portfolio/_data/resume.yml",
+
+  "search_queries": [
+    "python backend developer",
+    "python developer flask",
+    "cloud automation engineer python",
+    "azure python developer",
+    "devops engineer python",
+    "platform engineer python"
+  ],
+  "india_locations": ["Bengaluru", "Pune", "Hyderabad", "India"],
+
+  "sources": {
+    "adzuna": true,
+    "jsearch": true,
+    "remotive": true,
+    "arbeitnow": true
+  },
+  "remote_locations_allowed": ["worldwide", "anywhere", "india", "asia", "apac", "global"],
+
+  "skills": {
+    "python": 10,
+    "flask": 6,
+    "fastapi": 6,
+    "rest api": 5,
+    "restful": 3,
+    "microservices": 5,
+    "sql": 3,
+    "redis": 3,
+    "azure": 8,
+    "aws": 6,
+    "gcp": 3,
+    "azure arc": 3,
+    "multi-cloud": 3,
+    "hashicorp vault": 6,
+    "vault": 2,
+    "key vault": 4,
+    "oauth": 4,
+    "kubernetes": 3,
+    "docker": 2,
+    "ci/cd": 3,
+    "jenkins": 2,
+    "argocd": 2,
+    "git": 1,
+    "automation": 4,
+    "infrastructure automation": 4,
+    "provisioning": 3,
+    "devops": 3,
+    "cloud": 3,
+    "pandas": 2,
+    "unit testing": 2,
+    "bdd": 1
+  },
+
+  "title_keywords": ["python", "backend", "back-end", "cloud", "devops", "automation", "platform", "sre", "site reliability", "infrastructure", "software engineer", "software developer"],
+  "senior_title_keywords": ["senior", "sr", "lead", "principal", "staff", "architect", "manager", "head of", "director"],
+  "exclude_title_keywords": ["intern", "internship", "java", ".net", "php", "android", "ios", "frontend", "front-end", "sales", "recruiter"],
+
+  "experience_years": 2
+}

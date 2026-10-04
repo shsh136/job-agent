@@ -1,0 +1,13 @@
+# Secrets and personal details: never commit
+.env
+profile.json
+
+# Local state and output (recreated by the agent)
+applications/
+applications.json
+jobs.json
+seen_jobs.json
+agent.log
+digest.html
+prep.html
+__pycache__/

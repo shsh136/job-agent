@@ -1,0 +1,4 @@
+pydantic>=2
+pypdf>=4
+# Optional: only needed if you use ANTHROPIC_API_KEY instead of the free Gemini key
+anthropic>=1
